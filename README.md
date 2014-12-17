@@ -8,6 +8,8 @@
  Next step, run gdb at other host machine, and type "target remote /dev/ttyUSB#".
   
  Related document :http://keslproject.iptime.org/mediawiki/images/4/43/%ED%94%84%EB%A1%9C%ED%8C%8C%EC%9D%BC%EB%A7%81_%EC%9E%84%EB%B2%A0%EB%94%94%EB%93%9C%EA%B3%B5%ED%95%99%ED%9A%8C.hwp
+
+ Demo video url : http://youtu.be/g8mm1AADN1E
   
 ## Source Tree
     hypervisor - monitor.c
